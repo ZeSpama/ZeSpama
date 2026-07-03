@@ -31,7 +31,7 @@ Freelancer from Porto, Portugal, focused on building applications that help busi
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/)
+- [LinkedIn](https://www.linkedin.com/in/josemarques-se/)
 - [GitHub](https://github.com/ZeSpama)
 - [Email](mailto:geral@zsdev.pt)
 - [Discord](https://discord.zsdev.pt)
